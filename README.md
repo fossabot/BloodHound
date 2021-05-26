@@ -1,4 +1,6 @@
 # About BloodHound
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FusApp-stAck%2FBloodHound.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FusApp-stAck%2FBloodHound?ref=badge_shield)
+
 
 BloodHound is a single page Javascript web application, built on top of [Linkurious](http://linkurio.us/), compiled with [Electron](http://electron.atom.io/), with a [Neo4j](https://neo4j.com/) database fed by a C# data collector.
 
@@ -33,3 +35,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FusApp-stAck%2FBloodHound.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FusApp-stAck%2FBloodHound?ref=badge_large)
